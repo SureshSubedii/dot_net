@@ -1,0 +1,14 @@
+/home/suresh/dot_net/NewProject/bin/Debug/net7.0/NewProject
+/home/suresh/dot_net/NewProject/bin/Debug/net7.0/NewProject.deps.json
+/home/suresh/dot_net/NewProject/bin/Debug/net7.0/NewProject.runtimeconfig.json
+/home/suresh/dot_net/NewProject/bin/Debug/net7.0/NewProject.dll
+/home/suresh/dot_net/NewProject/bin/Debug/net7.0/NewProject.pdb
+/home/suresh/dot_net/NewProject/obj/Debug/net7.0/NewProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/suresh/dot_net/NewProject/obj/Debug/net7.0/NewProject.AssemblyInfoInputs.cache
+/home/suresh/dot_net/NewProject/obj/Debug/net7.0/NewProject.AssemblyInfo.cs
+/home/suresh/dot_net/NewProject/obj/Debug/net7.0/NewProject.csproj.CoreCompileInputs.cache
+/home/suresh/dot_net/NewProject/obj/Debug/net7.0/NewProject.dll
+/home/suresh/dot_net/NewProject/obj/Debug/net7.0/refint/NewProject.dll
+/home/suresh/dot_net/NewProject/obj/Debug/net7.0/NewProject.pdb
+/home/suresh/dot_net/NewProject/obj/Debug/net7.0/NewProject.genruntimeconfig.cache
+/home/suresh/dot_net/NewProject/obj/Debug/net7.0/ref/NewProject.dll
