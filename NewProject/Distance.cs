@@ -13,7 +13,7 @@ namespace NewProject
             return new Distance(d1.feet + d2.feet + NewFeet, NewInch);
         }
         public void Display(){
-            Console.WriteLine($"{feet} ft  {inch} in");
+            Console.WriteLine($"{feet}ft {inch}inch");
         }
     }
 }

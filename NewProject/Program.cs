@@ -38,10 +38,22 @@ namespace NewProject
 
 
         }
+        static void DistanceSum2()
+        {
+            WriteLine("Enter first distance in feet");
+            _ = Double.TryParse(ReadLine(), out Double dist);
+
+            WriteLine("Enter second distance in feet");
+            _ = Double.TryParse(ReadLine(), out Double dist2);
+                Distance2 d1 = new(dist);
+            Distance2 d2 = new(dist2);
+            Distance2 d3 = d1 + d2;
+            d3.Display();
+        }
 
         static void Main(string[] args)
         {
-            SumDistance();
-        }
+            DistanceSum2();
+                    }
     }
 }
